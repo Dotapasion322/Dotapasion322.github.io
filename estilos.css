@@ -1,0 +1,57 @@
+body{
+    background-color: rgb(224, 108, 30);
+}
+.Encabezado h1{
+    display: flex;
+    justify-content: center;
+    width: 900px;
+    height: 30px;
+    background-color: rgb(243, 243, 123);
+    margin-bottom: 10px;
+    align-items: center;
+    text-align: center;
+    border: 1px solid;
+}
+.Baner img{
+    display: flex;
+    justify-content: center;
+    width: 900px;
+    height: 100px;
+}
+.b1{
+    width: 220px;
+    height: 200px;
+    background-color: beige;
+    float: left;
+    margin-right: 20px;
+}
+.b2{
+    width: 220px;
+    height: 200px;
+    background-color: beige;
+    float: left;
+    margin-right: 20px;
+}
+.b3{
+    width: 220px;
+    height: 200px;
+    background-color: beige;
+    float: left;
+    margin-right: 20px;
+}
+.b4{
+    width: 220px;
+    height: 200px;
+    background-color: beige;
+    float: left;
+    margin-right: 20px;
+}
+#menu ul{
+    text-align: left;
+    color: brown;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+#menu ul li{
+    background-color: rgb(8, 8, 8);}
